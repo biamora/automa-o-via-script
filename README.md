@@ -1,1 +1,1 @@
-# automa-o-via-script
+# automação-via-script
